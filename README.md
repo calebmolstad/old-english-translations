@@ -4,9 +4,9 @@ This repository of the translation is for others to provide translation suggesti
 
 This translation is free for anyone to use.
 
-A couple of resources that helped me greatly.
-http://www.oldenglishaerobics.net/anthology.html
-Baker, Peter S. Introduction to Old English: Second Edition. Blackwell Publishing, 2007. ISBN: 978-1-4051-5272-3.
-http://research.uvu.edu/mcdonald/wanderweb/
-http://www.anglo-saxons.net/hwaet/?do=get&type=text&id=wdr
+A couple of resources that helped me greatly:
++ http://www.oldenglishaerobics.net/anthology.html
++ Baker, Peter S. Introduction to Old English: Second Edition. Blackwell Publishing, 2007. ISBN: 978-1-4051-5272-3.
++ http://research.uvu.edu/mcdonald/wanderweb/
++ http://www.anglo-saxons.net/hwaet/?do=get&type=text&id=wdr
 
