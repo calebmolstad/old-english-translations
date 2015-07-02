@@ -1,4 +1,4 @@
-Hwæt! Ic swefna cyst secgan wylle,
+<pre>Hwæt! Ic swefna cyst secgan wylle,
 hwæt mē gemǣtte tō midre nihte,
 syðþan reordberend reste wunedon.
 Þūhte mē þæt ic gesāwe syllicre trēow
@@ -159,4 +159,4 @@ gāsta weorode, on Godes rīce,
 Anwealda ælmihtig, englum tō blisse
 and eallum ðām hālgum þām þe on heofonum ǣr
 wunedon on wuldre, þā heora Wealdend cwōm,
-ælmihtig God, þær his ēðel wæs.
+ælmihtig God, þær his ēðel wæs.</pre>
